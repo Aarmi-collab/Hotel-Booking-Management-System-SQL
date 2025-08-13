@@ -15,10 +15,6 @@ This SQL-based Hotel Booking Management System is designed to:
 - Collect guest feedback for quality monitoring
 - Provide structured queries for reporting and analytics
 
-## 📷 ER Diagram
-
-![ERD](ERD_Hotel_System.png)
-
 ## 📄 Final Report
 
 Detailed documentation of all SQL queries, DDL, DML, DQL, and business rules:
